@@ -1,11 +1,12 @@
 /*
- * HomePage Messages
+ * Game Messages
  *
- * This contains all the text for the HomePage container.
+ * This contains all the text for the Game container.
  */
+
 import { defineMessages } from 'react-intl';
 
-export const scope = 'app.containers.HomePage';
+export const scope = 'app.containers.Game';
 
 export default defineMessages({
   header: {

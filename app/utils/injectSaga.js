@@ -1,3 +1,4 @@
+/* eslint-disable react/static-property-placement */
 import React from 'react';
 import hoistNonReactStatics from 'hoist-non-react-statics';
 import { ReactReduxContext } from 'react-redux';
