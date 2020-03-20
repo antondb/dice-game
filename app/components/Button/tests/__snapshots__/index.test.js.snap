@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Button /> Should render and match the snapshot 1`] = `
+<span>
+  <button
+    class="Button__StyledInput-nl171n-0 liDtlR"
+    type="button"
+  />
+</span>
+`;

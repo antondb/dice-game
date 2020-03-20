@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Die /> Should render and match the snapshot 1`] = `
+<div
+  class="Die__StyledDiceCup-sc-5aaqsf-1 bNWieR"
+>
+  <svg
+    aria-hidden="true"
+    class="svg-inline--fa fa-dice-two fa-w-14 Die__StyledDie-sc-5aaqsf-0 jaCaeW"
+    data-icon="dice-two"
+    data-prefix="fas"
+    focusable="false"
+    role="img"
+    viewBox="0 0 448 512"
+    xmlns="http://www.w3.org/2000/svg"
+  >
+    <path
+      d="M384 32H64C28.65 32 0 60.65 0 96v320c0 35.35 28.65 64 64 64h320c35.35 0 64-28.65 64-64V96c0-35.35-28.65-64-64-64zM128 192c-17.67 0-32-14.33-32-32s14.33-32 32-32 32 14.33 32 32-14.33 32-32 32zm192 192c-17.67 0-32-14.33-32-32s14.33-32 32-32 32 14.33 32 32-14.33 32-32 32z"
+      fill="currentColor"
+    />
+  </svg>
+</div>
+`;

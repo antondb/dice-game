@@ -9,7 +9,9 @@ import PropTypes from 'prop-types';
 import styled from 'styled-components';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 
-const StyledDie = styled(FontAwesomeIcon)`
+const StyledDie = styled(({ isRolling, ...rest }) => (
+  <FontAwesomeIcon {...rest} />
+))`
   color: #f5f0f7;
   font-size: 2em;
 

@@ -1,15 +1,13 @@
-/*
-import { defaultAction } from '../actions';
-import { DEFAULT_ACTION } from '../constants';
+import { rollDice } from '../actions';
+import { ROLL_DICE } from '../constants';
 
 describe('Game actions', () => {
   describe('Default Action', () => {
-    it('has a type of DEFAULT_ACTION', () => {
+    it('has a type of ', () => {
       const expected = {
-        type: DEFAULT_ACTION,
+        type: ROLL_DICE,
       };
-      expect(defaultAction()).toEqual(expected);
+      expect(rollDice()).toEqual(expected);
     });
   });
 });
-*/

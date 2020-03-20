@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Game /> Should render and match the snapshot 1`] = `
+<div
+  class="Game__StyledGame-sc-1nrlr7e-1 khMrxA"
+>
+  <h1
+    class="Title__StyledH1-sc-1q7q8nk-0 BJgVs"
+  >
+    Battle Dice
+  </h1>
+  <div
+    class="Game__StyledPlayers-sc-1nrlr7e-0 cfgHeK"
+  />
+  <div
+    class="Game__StyledButtonArea-sc-1nrlr7e-2 eQsbGk"
+  >
+    <p
+      class="Game__StyledMessageArea-sc-1nrlr7e-3 gOLrMZ"
+    >
+      a
+    </p>
+    <span>
+      <button
+        class="Button__StyledInput-nl171n-0 liDtlR"
+        type="button"
+      >
+        ROLL
+      </button>
+    </span>
+  </div>
+</div>
+`;
