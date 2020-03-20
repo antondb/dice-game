@@ -2,7 +2,7 @@
 
 exports[`<Game /> Should render and match the snapshot 1`] = `
 <div
-  class="Game__StyledGame-sc-1nrlr7e-1 khMrxA"
+  class="Game__StyledGame-sc-1nrlr7e-1 iChSLQ"
 >
   <h1
     class="Title__StyledH1-sc-1q7q8nk-0 BJgVs"
