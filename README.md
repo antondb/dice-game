@@ -7,7 +7,7 @@
 
 
 ### Intro
-this project uses the react boilerplate as a base https://github.com/react-boilerplate/react-boilerplate
+this project uses the react boilerplate as a base https://github.com/react-boilerplate/react-boilerplate and uses Redux/Sagas for the logic.
 
 ### Website
 The code is automatically deployed from this repository to Netlify here: https://the-dice-game.netlify.com/ The website is a functional PWA that can be "installed" on a mobile.
@@ -16,11 +16,11 @@ The code is automatically deployed from this repository to Netlify here: https:/
 Github actions will automatically run the tests when pushed.
 
 ### Commands
-To install the project first run the following in the root project folder.
+To install the project, first run the following command in the root project folder.
 ```
  npm install
 ```
-To run a dev instance locally run:
+To run a dev instance locally, run:
 ```
 npm start
 ```
